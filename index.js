@@ -44,4 +44,4 @@ client.on('message', async (message) => {
     };
 });
 
-client.login('ODMzMDc5NDAwOTI3OTg1Nzc1.YHtHpw.3cSxAjn1yTdYmbCzKlIozzlDxMo');
+client.login('here it goes the key provided by dicord.');
