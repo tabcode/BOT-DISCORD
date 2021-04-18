@@ -1,0 +1,1 @@
+# This is a basic bot that was created with Node.Js y Discord.Js
